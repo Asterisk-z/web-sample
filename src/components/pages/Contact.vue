@@ -36,7 +36,7 @@
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-            <form role="form" class="php-email-form" @submit="handleForm">
+            <form role="form" class="php-email-form" @submit="handleContactForm">
               <div class="row">
                 <div class="form-group col-md-6">
                   <label for="name">Your Name</label>
@@ -85,7 +85,7 @@ export default {
     }
   },
   methods: {
-    handleForm (e){
+    handleContactForm (e){
       e.preventDefault();
       let formdata = this.form;
       console.log(formdata)

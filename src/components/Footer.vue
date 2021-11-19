@@ -60,7 +60,7 @@
               <a href="https://twitter.com/AkshiptikaI" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
               <a href="https://www.facebook.com/akshiptikainfotech" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
               <a href="https://www.instagram.com/akshiptikainfotech/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="https://in.pinterest.com/munish_mr2002/_created/" target="_blank" class="google-plus"><i class="bx bxl-pintrest"></i></a>
+              <a href="https://www.linkedin.com/company/77111635/admin/recommend/" target="_blank" class="google-plus"><i class="bx bxl-linkedin"></i></a>
               <a href="https://www.akshiptikainfotech.com#6689" target="_blank" class="linkedin"><i class="bx bxl-discord"></i></a>
             </div>
           </div>

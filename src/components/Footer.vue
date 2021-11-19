@@ -8,8 +8,8 @@
           <div class="col-lg-6">
             <h4>Join Our Newsletter</h4>
             <p>Sign up today for free and be the first to get notified on new updates.</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
+            <form @submit="handleNewsletter">
+              <input type="email" name="email" v-model="email"><input type="submit" value="Subscribe">
             </form>
           </div>
         </div>
@@ -79,7 +79,20 @@
 
 <script>
 export default {
-  
+  name: 'Footer',
+  data(){
+    return {
+      email: ''
+    }
+  },
+  methods: {
+    handleNewsletter(e){
+      e.preventDefault();
+      let email = this.email
+      console.log(email)
+      this.email = ''
+    }
+  }
 }
 </script>
 

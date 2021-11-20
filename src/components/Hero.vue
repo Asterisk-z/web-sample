@@ -6,7 +6,7 @@
       <div class="row gy-4">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1>Bettter digital experience with Akshiptika Infotech</h1>
-          <h2>We are team of talented Engineers and Designers creating softwares</h2>
+          <h2>For next generation of big businesses</h2>
           <div>
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
           </div>

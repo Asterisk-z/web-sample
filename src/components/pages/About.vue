@@ -10,7 +10,7 @@
           <div class="col-lg-6 pt-5 pt-lg-0">
             <h3 data-aos="fade-up">WHAT WE ARE HERE FOR?</h3>
             <p data-aos="fade-up" data-aos-delay="100">
-              Our group of SEO Services make answers for our customers, yet get our customers front and center the market by giving designated traffic to your necessities. We like to be on top by bringing our customers the consideration that they want.
+              Akshiptika Infotech is an ensured organization giving start to finish IT administrations including web composition and improvement, web based business shopping basket, SEO and computerized promoting, ADA web architecture, site security arrangement, IT consultancy, custom investigation, versatile application, CRM, ERP and custom programming advancement since 19 years. We convey our administrations to new companies, SMEs, corporates, government and offices.
             </p>
             <!-- <div class="row">
               <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
